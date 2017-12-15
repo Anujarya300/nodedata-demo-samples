@@ -1,0 +1,9 @@
+node_modules/*
+*.js
+obj/Debug/search_api.njsproj.FileListAbsolute.txt
+obj/Debug/search_api.njsprojResolveAssemblyReference.cache
+*.js.map
+search_api.njsproj
+search_api.sln
+typings
+.vs/search_api/v14/.suo

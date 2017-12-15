@@ -1,0 +1,30 @@
+{
+  "name": "search_api",
+  "version": "1.0.0",
+  "description": "This repository is to demonstrate the search apis",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "nodedata": "~4.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anujarya300/nodedata-demo-samples.git"
+  },
+  "keywords": [
+    "[\"nodedata\"",
+    "\"search\"",
+    "\"searchapi\"]"
+  ],
+  "author": "anuj rana/ anujaryatitanic300@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anujarya300/nodedata-demo-samples/issues"
+  },
+  "homepage": "https://github.com/Anujarya300/nodedata-demo-samples#readme",
+  "devDependencies": {
+    "typescript": "^2.6.2"
+  }
+}
